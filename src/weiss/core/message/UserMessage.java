@@ -82,6 +82,6 @@ public class UserMessage extends Message
     @Override
     public String toString()
     {
-        return super.toString() + "Message: " + message + "\n";
+        return super.toString() + "\nMessage: " + message + "\n";
     }
 }

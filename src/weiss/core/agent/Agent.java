@@ -50,7 +50,7 @@ public class Agent extends MetaAgent
     public Agent(String name, MetaAgent superAgent)
     { 
         super(name, superAgent);
-
+        
         scope = 0;
     }
 

@@ -26,7 +26,7 @@ public class RegManagement
 {
 
     private static volatile ArrayList<String> registeredNames = new ArrayList();
-
+    
     /**
      * Recursive method to set the name of the MetaAgent. Checks an ArrayList of
      * registered names to make sure no name is written twice.
@@ -56,6 +56,7 @@ public class RegManagement
         if (registeredNames.contains(name + " (" + val + ")"))
             return setName(name, val + 1);
         
+        System.out.println("Renamed to " + name + " (" + val + ")");
         return setName(name + " (" + val + ")");
     }
 }

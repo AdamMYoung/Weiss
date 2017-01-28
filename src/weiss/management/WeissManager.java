@@ -113,7 +113,7 @@ public final class WeissManager extends JFrame
                                     new ImageIcon("src/images/portal20px.png"));
                             break;
                         case 2:
-                            treePane.addNode(new Agent(metaAgentInputField.getText(), null,
+                            treePane.addNode(new AgentImpl(metaAgentInputField.getText(), null,
                                     agentScopeBox.getSelectedIndex()),
                                     new ImageIcon("src/images/agent20px.png"));
                             break;

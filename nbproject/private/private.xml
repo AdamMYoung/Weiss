@@ -3,19 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/Adam%20Young/Documents/GitHub/Weiss/src/weiss/core/agent/RegManagement.java</file>
             <file>file:/C:/Users/Adam%20Young/Documents/GitHub/Weiss/src/weiss/management/nodeMonitor/NodeMonitor.java</file>
-            <file>file:/C:/Users/Adam%20Young/Documents/GitHub/Weiss/src/weiss/core/message/SysMessage.java</file>
-            <file>file:/C:/Users/Adam%20Young/Documents/GitHub/Weiss/src/weiss/core/agent/Agent.java</file>
-            <file>file:/C:/Users/Adam%20Young/Documents/GitHub/Weiss/test/weiss/core/agent/PortalTest.java</file>
-            <file>file:/C:/Users/Adam%20Young/Documents/GitHub/Weiss/src/weiss/management/AgentImpl.java</file>
-            <file>file:/C:/Users/Adam%20Young/Documents/GitHub/Weiss/test/weiss/core/message/SysMessageTest.java</file>
-            <file>file:/C:/Users/Adam%20Young/Documents/GitHub/Weiss/test/weiss/core/agent/AgentTest.java</file>
-            <file>file:/C:/Users/Adam%20Young/Documents/GitHub/Weiss/test/weiss/core/agent/RouterTest.java</file>
-            <file>file:/C:/Users/Adam%20Young/Documents/GitHub/Weiss/test/weiss/management/client/ClientTest.java</file>
-            <file>file:/C:/Users/Adam%20Young/Documents/GitHub/Weiss/test/weiss/management/client/ManagableTest.java</file>
-            <file>file:/C:/Users/Adam%20Young/Documents/GitHub/Weiss/test/weiss/core/agent/MetaAgentTest.java</file>
-            <file>file:/C:/Users/Adam%20Young/Documents/GitHub/Weiss/test/weiss/core/message/MessageTest.java</file>
-            <file>file:/C:/Users/Adam%20Young/Documents/GitHub/Weiss/src/weiss/core/agent/MetaAgent.java</file>
         </group>
     </open-files>
 </project-private>

@@ -77,7 +77,7 @@ public class AgentImpl extends MetaAgent implements Managable
     @Override
     protected void userMsgHandler(UserMessage msg)
     {
-        //Do something with message
+        client.updateClient(msg);
     }
 
     /**
